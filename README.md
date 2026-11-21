@@ -77,6 +77,6 @@ LuckyLilliaBot 前身为 LiteLoaderQQNT 的插件：LLOneBot，但由于 LiteLoa
 ...
 
 ## 4. 结语
-腾讯应该是在最近大肥鱼浪潮后开始整治 Bot 社区了，推荐各位给以上项目进行 Fork 和本地 Clone。
+腾讯应该是在最近大肥鱼浪潮后开始整治 Bot 社区了，推荐各位给以上项目进行 Fork 和本地 Clone.
 
 ~~腾讯，我日你仙人，给句痛快话，投降不投降！~~
